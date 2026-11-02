@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (never commit personal photos)
+*.heic
+*.HEIC
+*.heif
+*.jpg
+*.JPG
+*.jpeg
+
+# Test scratch
+test_output/
